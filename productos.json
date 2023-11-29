@@ -1,0 +1,13 @@
+[
+    { "id": 1, "nombre": "Junior", "categoria": "Hamburguesas", "precio": 4000, "stock": 10, "img": "./images/1.png" },
+    { "id": 2, "nombre": "Junior con queso", "categoria": "Hamburguesas", "precio": 5000, "stock": 10, "img": "./images/2.png" },
+    { "id": 3, "nombre": "Clásica simple"," categoria": "Hamburguesas", "precio": 5500, "stock": 10, "img": "./images/3.png" },
+    { "id": 4, "nombre": "Clásica doble"," categoria": "Hamburguesas", "precio": 5750, "stock": 10, "img": "./images/4.png" },
+    { "id": 5, "nombre": "Cuarto con queso simple", "categoria": "Hamburguesas", "precio": 6000, "stock": 10, "img": "./images/5.png" },
+    { "id": 6, "nombre": "Cuarto con queso doble", "categoria": "Hamburguesas", "precio": 65000, "stock": 10, "img": "./images/6.png" },
+    { "id": 7, "nombre": "Cuarto con queso triple","categoria": "Hamburguesas", "precio": 6750, "stock": 10, "img": "./images/7.png" },
+    { "id": 8, "nombre": "Bacon triple", "categoria": "Hamburguesas", "precio": 7000, "stock": 10, "img": "./images/11.png" },
+    { "id": 9, "nombre": "Coca-Cola L.", "categoria": "Bebidas", "precio": 800, "stock": 10, "img": "./images/coca.png" },
+    { "id": 10, "nombre": "Aquarius Naranja B. 500cc ", "categoria": "Bebidas", "precio": 700, "stock": 10, "img": "./images/aquariusnaranja.jpg" },
+    { "id": 11, "nombre": "Aquarius Manzana B. 500cc ", "categoria": "Bebidas", "precio": 700, "stock": 10, "img": "./images/aquariusmanzana.png" }
+]
