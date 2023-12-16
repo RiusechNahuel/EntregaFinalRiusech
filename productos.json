@@ -1,8 +1,8 @@
 [
     { "id": 1, "nombre": "Junior", "categoria": "Hamburguesas", "precio": 4000, "stock": 10, "img": "./images/1.png" },
     { "id": 2, "nombre": "Junior con queso", "categoria": "Hamburguesas", "precio": 5000, "stock": 10, "img": "./images/2.png" },
-    { "id": 3, "nombre": "Clásica simple"," categoria": "Hamburguesas", "precio": 5500, "stock": 10, "img": "./images/3.png" },
-    { "id": 4, "nombre": "Clásica doble"," categoria": "Hamburguesas", "precio": 5750, "stock": 10, "img": "./images/4.png" },
+    { "id": 3, "nombre": "Clásica simple","categoria": "Hamburguesas", "precio": 5500, "stock": 10, "img": "./images/3.png" },
+    { "id": 4, "nombre": "Clásica doble","categoria": "Hamburguesas", "precio": 5750, "stock": 10, "img": "./images/4.png" },
     { "id": 5, "nombre": "Cuarto con queso simple", "categoria": "Hamburguesas", "precio": 6000, "stock": 10, "img": "./images/5.png" },
     { "id": 6, "nombre": "Cuarto con queso doble", "categoria": "Hamburguesas", "precio": 65000, "stock": 10, "img": "./images/6.png" },
     { "id": 7, "nombre": "Cuarto con queso triple","categoria": "Hamburguesas", "precio": 6750, "stock": 10, "img": "./images/7.png" },
